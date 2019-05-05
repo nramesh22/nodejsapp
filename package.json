@@ -1,0 +1,14 @@
+{
+  "name": "learnbudy",
+  "description": "parse-server for Learnbudy",
+  "scripts": {
+    "start": "parse-server config.json",
+    "dashboard": "parse-dashboard --config parse-dashboard-config.json"
+  },
+  "dependencies": {
+    "parse-server": "^2.0.0"
+  },
+  "devDependencies": {
+    "parse-dashboard": "^1.2.0"
+  }
+}

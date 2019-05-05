@@ -1,0 +1,7 @@
+{
+  "appId": "OYHrw0ANeMuod81A06s4cKERE7wNucQymZaSfsrc",
+  "masterKey": "7PtMe5rhphOE9nDqR2yZ8rWfu1Ju4cF6tWRWCPC7",
+  "appName": "Learnbudy",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:27017/parse"
+}
